@@ -1,4 +1,4 @@
-# TARGET-Business-Case-Study-SEP-2024
+# TARGET-SQL-Business-Case-Study-SEP-2024
 This case study was a part of the Capstone Project of SQL Module, in Scaler Academy's Data Science and Machine Learning (DSML) Program.
 
 The csv data used for the case study can be found here: https://drive.google.com/drive/folders/1FtD_patBlohjtsz1JkUvRNicp4v9j6jj?usp=sharing
